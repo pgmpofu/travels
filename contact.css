@@ -1,0 +1,36 @@
+.input-text {
+    margin-bottom: 12px;
+    width: 70%;
+    height: 24px;
+    font-size: medium;
+    border: none;
+    padding: 8px;
+}
+
+.input-button {
+   background-color: darkblue;
+   color: white;
+   width: 100px;
+   padding: 8px;
+   font-size: small;
+   margin: 16px;
+}
+
+div {
+    text-align: center;
+    background-color: beige;
+    
+}
+
+p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 8px;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
